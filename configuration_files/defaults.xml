@@ -1,0 +1,15 @@
+<bigWig_settings>
+	<range_min>0</range_min>
+	<range_max>75</range_max>
+	<option alwaysZero="on" />
+	<option autoScale="off" />
+	<option graphTypeDefault="bar" />
+	<option maxHeightPixels="100:32:8" />
+	<option maxWindowToQuery="100000" />
+	<option smoothingWindow="off" />
+	<option transformFunc="NONE" />
+	<option windowingFunction="mean" />
+	<option yLineOnOff="off" />
+	<option gridDefault="on" />
+</bigWig_settings>
+	

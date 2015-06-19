@@ -1,0 +1,94 @@
+<DNase_seq_datasets>
+	<Dataset timePoint="0" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t00/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="0" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t00/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="0.5" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t05/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="0.5" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t05/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="1" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t1/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="1" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t1/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="2" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t2/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="2" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t2/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+	<Dataset timePoint="3" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t3/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="3" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t3/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="4" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t4/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="4" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t4/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="5" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t5/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="5" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t5/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="6" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t6/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="6" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t6/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+	<Dataset timePoint="7" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t7/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="7" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t7/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="8" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t8/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="8" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t8/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="10" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t10/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="10" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t10/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+	<Dataset timePoint="12" replicate="1">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t12/accepted_hits.rep1.bigWig</BigWig>
+	</Dataset>
+
+	<Dataset timePoint="12" replicate="2">
+		<BigWig>data/dnase_seq/quantified_read_counts/iter0_t12/accepted_hits.rep2.bigWig</BigWig>
+	</Dataset>
+</DNase_seq_datasets>
