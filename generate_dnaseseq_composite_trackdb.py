@@ -1,3 +1,4 @@
+import argparse
 import xml.dom.minidom
 
 def bigwig_defaults( trackhub_defaults ):
@@ -74,9 +75,13 @@ def writeCompositeBigWigTrack(dnase_seq_datasets, trackhub_defaults):
 
 	return
 
+parser = argparse.ArgumentParser()
+parser.add_argument('-d', '--defaults', type=argparse.FileType('r'), required=True, metavar='defaultTrackSettings.xml')
+parser.add_argument('-c', '--config', type=argparse.FileType('r'), required=True, metavar='configuration.xml')
+args = parser.parse_args()
 
-trackhub_defaults_root = xml.dom.minidom.parse("./defaults.xml")
-dnase_seq_dataset_root = xml.dom.minidom.parse('./dnase_seq_data.xml')
-
+trackhub_defaults_root = xml.dom.minidom.parse(args.defaults)
+dnase_seq_dataset_root = xml.dom.minidom.parse(args.config)
+	
 writeCompositeBigWigTrack(dnase_seq_dataset_root, trackhub_defaults_root)
 
